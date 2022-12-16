@@ -1,6 +1,6 @@
 # Depom
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> its a shop tehme.
+
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -87,3 +87,7 @@ Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 <!-- This project is open source and available under the [... License](). -->
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
+
+
+
+![](./foundergif.gif)
